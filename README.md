@@ -80,6 +80,7 @@ English — B2 / Conversational
 ## 📫 Contact
 
 **Email:** davidsantiago2906@gmail.com  
+**LinkedIn:** [David Santiago Cifuentes Grimaldo](https://www.linkedin.com/in/david-santiago-cifuentes-grimaldo-549581167)  
 **GitHub:** [github.com/david1727x](https://github.com/david1727x)
 
 ---
