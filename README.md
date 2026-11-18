@@ -17,12 +17,23 @@ Python · Pandas · NumPy · SQL · R
 Power BI · Excel · Power Query · Matplotlib · Seaborn · Plotly · Streamlit · Tableau
 
 **Machine Learning & Statistics**  
-Scikit-learn · Statistical Analysis · Exploratory Data Analysis · Classification · Clustering · Feature Engineering
+Scikit-learn · PyTorch · Computer Vision · Deep Learning · Statistical Analysis · Exploratory Data Analysis · Classification · Clustering · Feature Engineering
 
 **Tools**  
 Jupyter Notebook · Google Colab · Git · GitHub · VS Code
 
 ## 🚀 Featured Projects
+
+### ♻️ [EcoVision AI — Waste Image Classification](https://github.com/david1727x/EcoVision-AI)
+
+Computer Vision and Deep Learning project that classifies waste photographs into **six categories**: cardboard, glass, metal, paper, plastic, and general trash. Developed with Juan David Jiménez.
+
+- Compared a custom Convolutional Neural Network (CNN) against **ResNet18 with transfer learning**
+- Trained and evaluated on **2,524 images**, using independent training, validation, and test splits
+- Achieved **78.63% test accuracy** and **76.16% macro F1-score** with ResNet18
+- Built an interactive **Streamlit application** for uploading photos and viewing predictions
+- **Tech:** Python · PyTorch · Torchvision · Transfer Learning · Scikit-learn · Streamlit
+- **[Explore the code and trained model](https://github.com/david1727x/EcoVision-AI)** · **[View presentation](https://github.com/david1727x/EcoVision-AI/blob/main/EcoVision_Presentacion.pdf)**
 
 ### [Employee Well-Being Analytics & Interactive Dashboard](https://github.com/david1727x/employee-wellbeing-analytics)
 
