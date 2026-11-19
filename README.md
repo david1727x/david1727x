@@ -33,7 +33,7 @@ Computer Vision and Deep Learning project that classifies waste photographs into
 - Achieved **78.63% test accuracy** and **76.16% macro F1-score** with ResNet18
 - Built an interactive **Streamlit application** for uploading photos and viewing predictions
 - **Tech:** Python · PyTorch · Torchvision · Transfer Learning · Scikit-learn · Streamlit
-- **[Explore the code and trained model](https://github.com/david1727x/EcoVision-AI)** · **[View presentation](https://github.com/david1727x/EcoVision-AI/blob/main/EcoVision_Presentacion.pdf)**
+- **[🚀 Try the live Streamlit app](https://ecovision-david.streamlit.app)** · **[GitHub repository](https://github.com/david1727x/EcoVision-AI)** · **[Presentation](https://github.com/david1727x/EcoVision-AI/blob/main/EcoVision_Presentacion.pdf)**
 
 ### [Employee Well-Being Analytics & Interactive Dashboard](https://github.com/david1727x/employee-wellbeing-analytics)
 
